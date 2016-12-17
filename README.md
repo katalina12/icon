@@ -74,3 +74,15 @@ social network icons
     </a>
 
 </div>
+
+ICONS
+ 
+Copy the below HTML for the above 30x30 Facebook 'f' icon:
+<a target="_blank" title="find us on Facebook" href="http://www.facebook.com/PLACEHOLDER"><img alt="follow me on facebook" src="//login.create.net/images/icons/user/facebook_30x30.png" border=0></a>
+ 
+ 
+Copy the below HTML for the above 40x40 Facebook 'f' icon:
+<a target="_blank" title="find us on Facebook" href="http://www.facebook.com/PLACEHOLDER"><img alt="follow me on facebook" src="//login.create.net/images/icons/user/facebook_40x40.png" border=0></a>
+
+<a id="Github" href="https://github.com/katalina12" target="_blank" class="btn"><img src="https://github.com/favicon.ico"></img> Github</a>
+
